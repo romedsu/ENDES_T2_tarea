@@ -98,11 +98,10 @@ Mientras que los IDEs  poseen funcionalidades más avanzadas (depuración, compi
 	<br/>
 1. **Community Edition** (código abierto y gratuita)
 		Destaca su uso para **JAVA, Phyton, GO o Kotlin**, entre otros.
-	<br/>
+<br/>
 2. **Ultimate Edition** (de pago)
 		Soporta numerosos lenguajes. Junto a los de la versión anterior se añaden **JavaScript, PHP o SQL**.
-  <br/>
-  
+<br/>
 
 * #### **Facilidad de uso**
 	* **Editor autocompletado**
@@ -151,10 +150,10 @@ Editor de texto de **código abierto** desarrollado por GitHub en el año 2014. 
 	* GO
 	<br/>
 * #### **Facilidad de uso**
-	Como la mayoría de editores de texto, destaca por su **ligereza y rapidez**. Posee una interfaz intuitiva, facilitando su uso y comprensión a los usuarios más principiantes. 
+Como la mayoría de editores de texto, destaca por su **ligereza y rapidez**. Posee una interfaz intuitiva, facilitando su uso y comprensión a los usuarios más principiantes. 
 	
-	Del mismo modo, ofrece acciones de autocompletado de código, facilitando el trabajo a los desarrolladores.
-	<br/>
+Del mismo modo, ofrece acciones de autocompletado de código, facilitando el trabajo a los desarrolladores.
+<br/>
 * #### **Depuración**
 Al ser un editor de texto no posee la funcionalidad integrada del depurador. Sin embargo, a través de pluggins que pueden instalarse, se puede obtener esta capacidad.
 <br/>
