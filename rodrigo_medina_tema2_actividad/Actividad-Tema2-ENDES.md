@@ -16,14 +16,13 @@ Pasos ya realizados con anterioridad
 ~~~
 git clone "Tu copia SSH"
 ~~~
-
+ 
 ![](1.1v2.png)
 
 ### 5. Ejecutar comando ls
 
 A través del comando `ls -l` podemos ver el contenido de la carpeta en la que nos encontramos.
 ![](5v2.png)
-
 
 ### 6. Git Status al día
 
@@ -34,13 +33,11 @@ git status
 ~~~
 ![](6v2.png)
 
-
 ### 7. Git Status pendiente
 
 Tras realizar un cambio en la carpeta (nuevo documento) y volver a introducir `git status` nos indica en <strong><span style="color: red;">rojo</span></strong> el archivo pendiente de actualización al repositorio.
 ![](7v2.png)
 
-  
 ### 8. Git Add | Fase Staged
 
 Agregamos los archivos que queremos subir y nos mostrará en <strong><span style="color: green;">verde</span></strong> el archivo que ya está en la fase staged, listo para actualizar el repositorio.
@@ -50,7 +47,6 @@ git add "Tu archivo"
 ~~~
 ![](8v2.png)
 
-
 ### 9. Git Commit
 
 Para confirmar la subida de los archivos al repositorio introducimos:
@@ -59,7 +55,6 @@ Para confirmar la subida de los archivos al repositorio introducimos:
 git commit -m "Mensaje que desees"
 ~~~
 ![](9v2.png)
-
 
 >[!NOTE]
 >A través del comando `-m` puedes añadir el mensaje que desees para tener una información extra de la actualización posteriormente.
@@ -74,13 +69,14 @@ git push origin main
 ~~~
 ![](10v2.png)
 
-
 ### 11. Repositorio actualizado en GitHub
 
 Una vez concluidos los paso anteriores, nuestro repositorio en GitHub ya estará sincronizado con los nuevos cambios.
 ![](11v2.png)
 
+<br/>
 ***
+<br/>
 
 ## SUBTAREA 2 | Comprobación de dos IDEs o editores de texto
 
@@ -92,20 +88,20 @@ Mientras que los IDEs  poseen funcionalidades más avanzadas (depuración, compi
 **IntelliJ IDEA** es un IDE desarrollado por JetBrains que facilita la escritura, depuración, refactorización y mantenimiento del código en numerosos lenguajes de programación. Se considera una herramienta versátil con diversas funcionalidades.
   
 * #### **Lenguajes de programación compatibles**
-	Este entorno de desarrollo se ofrece en dos versiones. 
+ Este entorno de desarrollo se ofrece en dos versiones. 
 	<br/>
 1. **Community Edition** (código abierto y gratuita)
-		Destaca su uso para **JAVA, Phyton, GO o Kotlin**, entre otros.
-<br/>
+		Destaca su uso para **JAVA, Phyton, GO o Kotlin**, entre otros
+
 2. **Ultimate Edition** (de pago)
 		Soporta numerosos lenguajes. Junto a los de la versión anterior se añaden **JavaScript, PHP o SQL**.
-<br/>
+  <br/>
 
 * #### **Facilidad de uso**
 	* **Editor autocompletado**
 		Integra un asistente que proporciona sugerencias y ayuda en el completado de código.
 		<br/>
-	 - **Inspección de código**
+	 * **Inspección de código**
 		Análisis en tiempo real, lo que facilita la identificación y resolución de errores, proporcionando sugerencias para mejorar el rendimiento.
 		<br/>
 * #### **Depuración**
@@ -148,10 +144,10 @@ Editor de texto de **código abierto** desarrollado por GitHub en el año 2014. 
 	* GO
 	<br/>
 * #### **Facilidad de uso**
-Como la mayoría de editores de texto, destaca por su **ligereza y rapidez**. Posee una interfaz intuitiva, facilitando su uso y comprensión a los usuarios más principiantes. 
+	Como la mayoría de editores de texto, destaca por su **ligereza y rapidez**. Posee una interfaz intuitiva, facilitando su uso y comprensión a los usuarios más principiantes. 
 	
-Del mismo modo, ofrece acciones de autocompletado de código, facilitando el trabajo a los desarrolladores.
-<br/>
+	Del mismo modo, ofrece acciones de autocompletado de código, facilitando el trabajo a los desarrolladores.
+	<br/>
 * #### **Depuración**
 Al ser un editor de texto no posee la funcionalidad integrada del depurador. Sin embargo, a través de pluggins que pueden instalarse, se puede obtener esta capacidad.
 <br/>
