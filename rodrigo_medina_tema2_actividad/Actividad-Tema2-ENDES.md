@@ -16,15 +16,13 @@ Pasos ya realizados con anterioridad
 ~~~
 git clone "Tu copia SSH"
 ~~~
- 
 
-![[1.1v2.png]]
+![](1.1v2.png)
 
 ### 5. Ejecutar comando ls
 
 A través del comando `ls -l` podemos ver el contenido de la carpeta en la que nos encontramos.
-
-![[5v2.png]]
+![](5v2.png)
 
 
 ### 6. Git Status al día
@@ -34,17 +32,15 @@ Mostramos que el repositorio está actualizado, sin ningún archvo pendiente.
 ~~~
 git status
 ~~~
+![](6v2.png)
 
-![[6v2.png]]
-  
 
 ### 7. Git Status pendiente
 
 Tras realizar un cambio en la carpeta (nuevo documento) y volver a introducir `git status` nos indica en <strong><span style="color: red;">rojo</span></strong> el archivo pendiente de actualización al repositorio.
+![](7v2.png)
 
-![[7v2.png]]
   
-
 ### 8. Git Add | Fase Staged
 
 Agregamos los archivos que queremos subir y nos mostrará en <strong><span style="color: green;">verde</span></strong> el archivo que ya está en la fase staged, listo para actualizar el repositorio.
@@ -52,8 +48,8 @@ Agregamos los archivos que queremos subir y nos mostrará en <strong><span style
 ~~~
 git add "Tu archivo"
 ~~~
+![](8v2.png)
 
-![[8v2.png]]
 
 ### 9. Git Commit
 
@@ -62,8 +58,8 @@ Para confirmar la subida de los archivos al repositorio introducimos:
 ~~~
 git commit -m "Mensaje que desees"
 ~~~
+![](9v2.png)
 
-![[9v2.png]]
 
 >[!NOTE]
 >A través del comando `-m` puedes añadir el mensaje que desees para tener una información extra de la actualización posteriormente.
@@ -76,15 +72,14 @@ Para sincronizar nuestra subida con el repositorio en GitHub es necesario introd
 ~~~
 git push origin main
 ~~~
-
-![[10v2.png]]
+![](10v2.png)
 
 
 ### 11. Repositorio actualizado en GitHub
 
 Una vez concluidos los paso anteriores, nuestro repositorio en GitHub ya estará sincronizado con los nuevos cambios.
+![](11v2.png)
 
-![[11v2.png]]
 <br/>
 ***
 <br/>
@@ -101,13 +96,14 @@ Mientras que los IDEs  poseen funcionalidades más avanzadas (depuración, compi
 * #### **Lenguajes de programación compatibles**
 	Este entorno de desarrollo se ofrece en dos versiones. 
 	<br/>
-1. **Community Edition** (código abierto y gratuita) <br/>
-		Destaca su uso para **JAVA, Phyton, GO o Kotlin**, entre otros
+1. **Community Edition** (código abierto y gratuita)
+		Destaca su uso para **JAVA, Phyton, GO o Kotlin**, entre otros.
 	<br/>
- 	<br/>
-2. **Ultimate Edition** (de pago)<br/>
-		Soporta numerosos lenguajes. Junto a los de la versión anterior se añaden **JavaScript, PHP o SQL**.<br/>
+2. **Ultimate Edition** (de pago)
+		Soporta numerosos lenguajes. Junto a los de la versión anterior se añaden **JavaScript, PHP o SQL**.
+  <br/>
   
+
 * #### **Facilidad de uso**
 	* **Editor autocompletado**
 		Integra un asistente que proporciona sugerencias y ayuda en el completado de código.
