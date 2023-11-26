@@ -17,7 +17,7 @@ Pasos ya realizados con anterioridad
 git clone "Tu copia SSH"
 ~~~
  
-![](1.1v2.png)
+
 ![[1.1v2.png]]
 
 ### 5. Ejecutar comando ls
