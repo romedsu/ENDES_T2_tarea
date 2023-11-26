@@ -101,16 +101,15 @@ Mientras que los IDEs  poseen funcionalidades más avanzadas (depuración, compi
 * #### **Lenguajes de programación compatibles**
 	Este entorno de desarrollo se ofrece en dos versiones. 
 	<br/>
-	1. **Community Edition** (código abierto y gratuita)
+1. **Community Edition** (código abierto y gratuita) <br/>
 		Destaca su uso para **JAVA, Phyton, GO o Kotlin**, entre otros
 	<br/>
-	2. **Ultimate Edition** (de pago)
-		Soporta numerosos lenguajes. Junto a los de la versión anterior se añaden **JavaScript, PHP o SQL**.
-  <br/>
+ 	<br/>
+2. **Ultimate Edition** (de pago)<br/>
+		Soporta numerosos lenguajes. Junto a los de la versión anterior se añaden **JavaScript, PHP o SQL**.<br/>
   
-
 * #### **Facilidad de uso**
-	* ** Editor autocompletado**
+	* **Editor autocompletado**
 		Integra un asistente que proporciona sugerencias y ayuda en el completado de código.
 		<br/>
 	 - **Inspección de código**
@@ -135,16 +134,16 @@ Mientras que los IDEs  poseen funcionalidades más avanzadas (depuración, compi
 	- **Refactorización**
 		 Este IDE posee una funcionalidad de refactorización automática, permitiendo reestructurar y mejorar el código existente, sin alterar su finalidad.
 		 <br/>
-	- ** Asistente IA**
+	- **Asistente IA**
 		 Herramienta de Inteligencia artificial  que ayuda en sugerencia de escritura de comentarios, nombres, mensajes de confirmación, etc.
 		 <br/>
-	 - ** Multiplataforma**
+	 - **Multiplataforma**
 		 Ofrece, tanto frameworks para el desarrollo de aplicaciones web como móviles (Android)
 		<br/>
 
 ## Atom
 Editor de texto de **código abierto** desarrollado por GitHub en el año 2014. Destaca por su** alta personalización, ligereza, gran cantidad de extensiones** desarrolladas por su comunidad en torno al código abierto, y su** integración con GitHub**.
-* #### **  Lenguajes de programación compatibles**
+* #### **Lenguajes de programación compatibles**
 	Numerosos lenguajes de programación, tecnologías web y frameworks  son  compatibles con este software. Algunos ejemplos entre otros muchos más son:
 	* C
 	* C++
@@ -155,7 +154,7 @@ Editor de texto de **código abierto** desarrollado por GitHub en el año 2014. 
 	* PHP
 	* GO
 	<br/>
-* #### ** Facilidad de uso**
+* #### **Facilidad de uso**
 	Como la mayoría de editores de texto, destaca por su **ligereza y rapidez**. Posee una interfaz intuitiva, facilitando su uso y comprensión a los usuarios más principiantes. 
 	
 	Del mismo modo, ofrece acciones de autocompletado de código, facilitando el trabajo a los desarrolladores.
