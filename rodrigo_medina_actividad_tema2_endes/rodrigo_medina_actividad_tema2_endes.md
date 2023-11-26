@@ -36,11 +36,14 @@ git status
 ### 7. Git Status pendiente
 
 Tras realizar un cambio en la carpeta (nuevo documento) y volver a introducir `git status` nos indica en <strong><span style="color: red;">rojo</span></strong> el archivo pendiente de actualización al repositorio.
+
 ![](7v2.png)
 
-### 8. Git Add | Fase Staged
+### 8. Git Add | Staging area
 
-Agregamos los archivos que queremos subir y nos mostrará en <strong><span style="color: green;">verde</span></strong> el archivo que ya está en la fase staged, listo para actualizar el repositorio.
+Mediante el comnado `git add "Tu archivo"` , movemos los archivos que deseamos al area de preparación **(staging area)**.
+
+Tras realizar un `git status` nos mostrará en <strong><span style="color: green;">verde</span></strong> el archivo que ya está en la fase staged, listo para actualizar el repositorio.
 
 ~~~
 git add "Tu archivo"
@@ -49,7 +52,7 @@ git add "Tu archivo"
 
 ### 9. Git Commit
 
-Para confirmar la subida de los archivos al repositorio introducimos:
+Para confirmar los cambios introducimos:
 
 ~~~
 git commit -m "Mensaje que desees"
@@ -62,7 +65,7 @@ git commit -m "Mensaje que desees"
 
 ### 10. Git Push Origin Main
 
-Para sincronizar nuestra subida con el repositorio en GitHub es necesario introducir el siguiente comando:
+Para actualizar y sincronizar nuestra subida con el repositorio en GitHub es necesario introducir el siguiente comando:
 
 ~~~
 git push origin main
@@ -73,9 +76,11 @@ git push origin main
 
 Una vez concluidos los paso anteriores, nuestro repositorio en GitHub ya estará sincronizado con los nuevos cambios.
 ![](11v2.png)
-
+<br/>
+<br/>
 <br/>
 ***
+<br/>
 <br/>
 
 ## SUBTAREA 2 | Comprobación de dos IDEs o editores de texto
@@ -167,8 +172,8 @@ Cuenta con un soporte nativo para Git, lo que permite gestionar los repositorios
 
 A día de hoy es difícil decantarse por una opción, ya que apenas he tenido la oportunidad de comprobar las características  de los diferentes software disponibles, sean IDEs o editores de texto.
 
-Sin embargo, creo que una buena opción al iniciarse en el desarrollo web es comenzar con un editor de texto (**Visual Studio Code, Atom, Sublime text**, etc.) debido a su mayor simplicidad y facilidad de uso, sobre todo para los usuarios sin experiencia previa.
+Sin embargo, creo que una buena opción al iniciarse en el desarrollo web es comenzar con un editor de texto (**Visual Studio Code, Atom, Sublime text**, etc.) debido a su mayor simplicidad y facilidad de uso, sobre todo para los usuarios sin experiencia previa. Del mismo modo, la gran cantidad de extensiones disponibles, nos pueden aportar pequeñas funcionalidades concretas que deseemos.
 
-No obstante, al ir avanzado y logrando más conocimiento, un IDE como IntellJ IDEA, puede aportar herramientas interesantes como el depurador o sistemas de control de versiones, que permitan al desarrollador continuar con una evolución más profunda en su trabajo.
+No obstante, al ir avanzado y logrando más conocimiento, un IDE como **IntellJ IDEA**, puede aportar herramientas interesantes como el depurador o sistemas de control de versiones, que permitan al desarrollador continuar con una evolución más profunda en su trabajo.
 
-Es por ello, que creo que no hay que cerrarse a ninguna de las opciones, ya que ambas ofrecen ventajas dependiendo la situación en la que nos encontremos o el proyecto que estemos realizando.
+Es por ello, que creo que no hay que cerrarse a ninguna de las opciones, ya que ambas ofrecen ventajas dependiendo la situación y nivel de experiencia en la que nos encontremos o el proyecto que estemos realizando.
