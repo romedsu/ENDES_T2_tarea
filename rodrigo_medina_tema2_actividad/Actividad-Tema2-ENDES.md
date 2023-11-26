@@ -98,18 +98,18 @@ Mientras que los IDEs  poseen funcionalidades más avanzadas (depuración, compi
 ## IntelliJ IDEA
 **IntelliJ IDEA** es un IDE desarrollado por JetBrains que facilita la escritura, depuración, refactorización y mantenimiento del código en numerosos lenguajes de programación. Se considera una herramienta versátil con diversas funcionalidades.
   
-* #### **  Lenguajes de programación compatibles**
+* #### **Lenguajes de programación compatibles**
 	Este entorno de desarrollo se ofrece en dos versiones. 
 	<br/>
-	1.  **Community Edition** (código abierto y gratuita)
+	1. **Community Edition** (código abierto y gratuita)
 		Destaca su uso para **JAVA, Phyton, GO o Kotlin**, entre otros
 	<br/>
-	2.  **Ultimate Edition** (de pago)
+	2. **Ultimate Edition** (de pago)
 		Soporta numerosos lenguajes. Junto a los de la versión anterior se añaden **JavaScript, PHP o SQL**.
   <br/>
   
 
-* #### ** Facilidad de uso**
+* #### **Facilidad de uso**
 	* ** Editor autocompletado**
 		Integra un asistente que proporciona sugerencias y ayuda en el completado de código.
 		<br/>
