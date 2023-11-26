@@ -90,10 +90,10 @@ Mientras que los IDEs  poseen funcionalidades más avanzadas (depuración, compi
 * #### **Lenguajes de programación compatibles**
 Este entorno de desarrollo se ofrece en dos versiones. 
 	<br/>
-1.  **Community Edition** (código abierto y gratuita)
+1. **Community Edition** (código abierto y gratuita)
 		Destaca su uso para **JAVA, Phyton, GO o Kotlin**, entre otros
-<br/>
-2.  **Ultimate Edition** (de pago)
+
+2. **Ultimate Edition** (de pago)
 		Soporta numerosos lenguajes. Junto a los de la versión anterior se añaden **JavaScript, PHP o SQL**.
   <br/>
   
