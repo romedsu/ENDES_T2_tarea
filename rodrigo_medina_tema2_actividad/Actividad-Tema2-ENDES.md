@@ -80,9 +80,7 @@ git push origin main
 Una vez concluidos los paso anteriores, nuestro repositorio en GitHub ya estará sincronizado con los nuevos cambios.
 ![](11v2.png)
 
-<br/>
 ***
-<br/>
 
 ## SUBTAREA 2 | Comprobación de dos IDEs o editores de texto
 
