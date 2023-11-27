@@ -2,6 +2,8 @@
 
 ## SUBTAREA 1 | Uso de GitHub y Git
 
+Este es [mi repositorio en GitHub](https://github.com/romedsu/ENDES_T2_tarea)
+
 ### 1 - 3.
 Pasos ya realizados con anterioridad
 
